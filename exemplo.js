@@ -31,7 +31,8 @@ var preco = 80;
 
  for (var i = 0; i < 9; i++) {
   console.log(i);
-}
 
+}
+console.log("loop 2")
   for (var p = 0; p < 20; p++) {
     console.log(p);}
