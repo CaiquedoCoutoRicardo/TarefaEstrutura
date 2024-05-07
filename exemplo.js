@@ -35,4 +35,69 @@ var preco = 80;
 }
 console.log("loop 2")
   for (var p = 0; p < 20; p++) {
-    console.log(p);}
+    console.log(p);
+  
+  
+  
+  }
+
+
+  let resposta = "sim";
+
+  while (resposta === "sim") {
+  
+      console.log("Olá! Gostaria de sair novamente para comer hoje?"); 
+  
+      resposta = prompt("Digite 'sim' para continuar ou qualquer outro valor para sair:");
+  
+  }
+
+
+  let t = 10;
+  console.log("Loop até 100"); 
+
+while (t <= 100) {
+  console.log(t);
+  t++;
+}
+
+const matéria = "Matemática";
+
+switch(matéria) {
+case "Matemática":
+console.log ("Indicada para pessoas boas com números");
+break;
+
+case "Português":
+console.log ("Indicada para pessoas habilidosas com gramática");
+break; 
+
+case "Educação Física":
+console.log ("Indicada para pessoas com habilidades físicas");
+break;
+}
+
+const diaDaSemana = "Segunda";
+switch (diaDaSemana) {
+    case "Segunda":
+        console.log("Ainda há muito o que ser feito, prossiga");
+        break;
+    case "Terça":
+        console.log("Ok, siga em frente, não pare");
+        break;
+    case "Quarta":
+        console.log("Você está  indo bem, mantenha-se");   
+        break;
+    case "Quinta":
+        console.log("Quase lá");       
+        break;
+    case "Sexta":
+        console.log("O mais complicado foi feito, desfrute");
+        break;
+    case "Sabado":    
+        console.log("Descanse e recarregue suas forças");
+        break;
+    case "Domingo":
+        console.log("São os últimos momentos, amanhã tudo começará novamente");   
+        break;
+}
