@@ -15,6 +15,6 @@ Estrutura de controle WHILE: O while é uma estrutura de repetição que permite
 
 Estrutura de controle SWITCH CASE: O switch case em JavaScript desempenha um papel fundamental na qualidade e na manutenção do seu código, tornando-o mais compreensível para outros desenvolvedores que possam examiná-lo.
 
-Essa estrutura é extremamente eficaz para lidar com variáveis que podem assumir valores diferentes no seu código e, com base nesses valores, executar blocos de código distintos, produzindo respostas diferentes. Ex: Linha 64 a 78.
+Essa estrutura é extremamente eficaz para lidar com variáveis que podem assumir valores diferentes no seu código e, com base nesses valores, executar blocos de código distintos, produzindo respostas diferentes. Ex: Linha 64 a 102.
 
 
